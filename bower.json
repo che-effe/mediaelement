@@ -1,8 +1,8 @@
 {
   "name": "mediaelement",
   "version": "2.16.3",
-  "homepage": "https://github.com/herby/mediaelement",
-  "description": "HTML5 <video> and <audio> made easy.",
+  "homepage": "https://github.com/che-effe/mediaelement",
+  "description": "HTML5 <video> made easy.",
   "moduleType": [
     "globals"
   ],
@@ -18,9 +18,5 @@
     "!/build/**",
     "!/bower.json",
     "!/README*"
-  ],
-  "main": [
-    "./build/mediaelement-and-player.js",
-    "./build/mediaelementplayer.css"
   ]
 }
