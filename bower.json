@@ -1,6 +1,6 @@
 {
   "name": "slim-mediaelement",
-  "version": "2.16.4",
+  "version": "2.16.5",
   "homepage": "https://github.com/che-effe/mediaelement",
   "description": "HTML5 <video> made easy.",
   "moduleType": [
